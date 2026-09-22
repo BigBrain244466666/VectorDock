@@ -1,0 +1,14 @@
+| Feature                   | Rev A target               |
+| ------------------------- | -------------------------- |
+| Host connection           | USB-C, USB 3.x 5 Gbps      |
+| USB ports                 | 2× USB-A 3.0, 5 Gbps       |
+| Ethernet                  | 1× RJ45, 1 Gbps            |
+| Storage                   | 1× microSD                 |
+| Charging input            | USB-C PD                   |
+| PD passthrough            | Up to 60 W, 20 V / 3 A     |
+| Display output            | None                       |
+| 2.5 GbE                   | None                       |
+| Audio                     | None                       |
+| PCB                       | 4-layer                    |
+| Enclosure                 | 3D printed later           |
+| Target total project cost | ≤ $200 USD                 |

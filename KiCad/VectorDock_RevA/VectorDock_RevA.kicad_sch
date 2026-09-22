@@ -1,0 +1,336 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "966b2bdc-c227-4b60-bbc3-694f9f58a750")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 201.93 26.67)
+		(size 24.13 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0717b52b-8923-4bf5-9fdd-5119f0923ed5")
+		(property "Sheetname" "Micro SD"
+			(at 201.93 25.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "micro_sd.kicad_sch"
+			(at 201.93 45.0346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VectorDock_RevA"
+				(path "/966b2bdc-c227-4b60-bbc3-694f9f58a750"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 59.69)
+		(size 24.13 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "200b8f5f-e9d2-4ded-a46a-92e25b567a4a")
+		(property "Sheetname" "Power"
+			(at 73.66 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 73.66 79.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VectorDock_RevA"
+				(path "/966b2bdc-c227-4b60-bbc3-694f9f58a750"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 25.4)
+		(size 22.86 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6a271905-efd4-4386-9fa3-279ad504ce0a")
+		(property "Sheetname" "Ethernet"
+			(at 163.83 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernet.kicad_sch"
+			(at 163.83 42.4946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VectorDock_RevA"
+				(path "/966b2bdc-c227-4b60-bbc3-694f9f58a750"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 59.69)
+		(size 20.32 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7d9d4764-36a0-4b00-834e-c78c590e0799")
+		(property "Sheetname" "USB PD"
+			(at 38.1 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_pd.kicad_sch"
+			(at 38.1 78.0546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VectorDock_RevA"
+				(path "/966b2bdc-c227-4b60-bbc3-694f9f58a750"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.93 24.13)
+		(size 22.86 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8eebf924-c452-4c0c-aea6-1875e07e3e2b")
+		(property "Sheetname" "USB Hub"
+			(at 74.93 23.4184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_hub.kicad_sch"
+			(at 74.93 41.2246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VectorDock_RevA"
+				(path "/966b2bdc-c227-4b60-bbc3-694f9f58a750"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 26.67)
+		(size 20.32 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e5f18ca1-ce3b-463a-a8f6-b44d1cb1f77f")
+		(property "Sheetname" "USB C Host"
+			(at 35.56 25.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_c_host.kicad_sch"
+			(at 35.56 43.7646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VectorDock_RevA"
+				(path "/966b2bdc-c227-4b60-bbc3-694f9f58a750"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 25.4)
+		(size 22.86 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e77a76b1-0725-43c0-aa30-9195f8570b9b")
+		(property "Sheetname" "USB A Ports"
+			(at 118.11 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_a_ports.kicad_sch"
+			(at 118.11 42.4946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VectorDock_RevA"
+				(path "/966b2bdc-c227-4b60-bbc3-694f9f58a750"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
